@@ -1,4 +1,4 @@
 Author: Dazzle UI
 Collection: Dazzle Line Icons
-URL: https://www.svgrepo.com/svg/532244/gear
+URL: https://www.svgrepo.com/svg/532328/shield-alt-1
 License: CC Attribution License
